@@ -12,11 +12,11 @@ Date -
 
 ## Agenda
 
-Objective
-Research Methodology
-Demographic Information
-Shopping Preferences
-Purchasing Behavior
-Post-Purchase Behavior
-Key Findings & Insights
-Conclusion & Recommendations
+ - Objective
+ - Research Methodology
+ - Demographic Information
+ - Shopping Preferences
+ - Purchasing Behavior
+ - Post-Purchase Behavior
+ - Key Findings & Insights
+ - Conclusion & Recommendations
