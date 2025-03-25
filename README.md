@@ -123,6 +123,7 @@ o	Better deal elsewhere
 o	Changed mind
 o	Payment issue
 
+
 ## Post-Purchase Behavior
 ```MR
 13.	How satisfied are you with your last purchase?
