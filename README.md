@@ -20,3 +20,9 @@ Date -
  - Post-Purchase Behavior
  - Key Findings & Insights
  - Conclusion & Recommendations
+
+## Objective
+
+- To understand customer purchasing behavior and preferences.
+- To analyze key factors influencing purchasing decisions.
+- To identify trends in spending, decision-making, and post-purchase behavior.
