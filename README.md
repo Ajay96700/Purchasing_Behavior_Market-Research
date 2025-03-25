@@ -62,6 +62,29 @@ o	Retail Stores
 o	Wholesale Stores
 ```
 
-
-
+## Shopping Preferences
+```MR
+5.	How often do you shop for products?
+o	Daily
+o	Weekly
+o	Monthly
+o	Occasionally
+```
+```MR
+6.	What product categories do you buy the most? (Select multiple)
+o	Electronics
+o	Furniture
+o	Office Supplies
+o	Home and Kitchen
+o	Fashion and Apparel
+o	Others: _______
+```
+```MR
+7.	How do you decide what to purchase?
+o	Online reviews
+o	Price comparison
+o	Brand reputation
+o	Discounts/Offers
+o	Recommendations from friends/family
+```
 
