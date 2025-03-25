@@ -163,6 +163,7 @@ Basis on survey data we can write finding and insights. It may include,
 - Recommendations for Business Strategy
 
 ## Conclusion & Recommendations
+When writing Conclusion & Recommendations we will have to ensure below points - 
  - How This Data Will Be Used for Strategic Planning
  - Next Steps for Further Research and Implementation
  - Final Takeaways for Businesses
