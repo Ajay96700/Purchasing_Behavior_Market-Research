@@ -6,7 +6,17 @@
 
 ### Subtitle: Insights for Strategic Recommendations
 
-Ajay Landge
+Name - Ajay Landge
 
 Date - 
 
+## Agenda
+
+Objective
+Research Methodology
+Demographic Information
+Shopping Preferences
+Purchasing Behavior
+Post-Purchase Behavior
+Key Findings & Insights
+Conclusion & Recommendations
