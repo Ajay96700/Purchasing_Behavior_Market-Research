@@ -61,7 +61,6 @@ o	Online Stores (Amazon, Flipkart, Myntra, etc.)
 o	Retail Stores
 o	Wholesale Stores
 ```
-
 ## Shopping Preferences
 ```MR
 5.	How often do you shop for products?
@@ -87,7 +86,6 @@ o	Brand reputation
 o	Discounts/Offers
 o	Recommendations from friends/family
 ```
-
 ## Purchasing Behavior
 ```MR
 8.	What is your average spend per order?
@@ -122,8 +120,8 @@ o	High shipping cost
 o	Better deal elsewhere
 o	Changed mind
 o	Payment issue
-
-## **Post-Purchase Behavior**
+```
+## Post-Purchase Behavior*
 ```MR
 13.	How satisfied are you with your last purchase?
 o	⭐⭐⭐⭐⭐ (Very Satisfied)
