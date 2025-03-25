@@ -88,3 +88,70 @@ o	Discounts/Offers
 o	Recommendations from friends/family
 ```
 
+## Purchasing Behavior
+```MR
+8.	What is your average spend per order?
+o	Less than ₹500
+o	₹500 - ₹1,000
+o	₹1,000 - ₹5,000
+o	₹5,000+
+```
+```MR
+9.	Which factor influences your purchase the most?
+o	Price
+o	Product quality
+o	Brand loyalty
+o	Offers/Discounts
+o	Availability
+```
+```MR
+10.	Which payment method do you prefer?
+o	Credit/Debit Card
+o	UPI (Google Pay, PhonePe, Paytm)
+o	Cash on Delivery
+o	Net Banking
+```
+```MR
+11.	Do you usually buy during sales and promotional periods?
+o	Yes
+o	No
+```
+```MR
+12.	Have you ever abandoned your cart before checkout? If yes, why? (Select multiple)
+o	High shipping cost
+o	Better deal elsewhere
+o	Changed mind
+o	Payment issue
+
+## Post-Purchase Behavior
+```MR
+13.	How satisfied are you with your last purchase?
+o	⭐⭐⭐⭐⭐ (Very Satisfied)
+o	⭐⭐⭐⭐ (Satisfied)
+o	⭐⭐⭐ (Neutral)
+o	⭐⭐ (Dissatisfied)
+o	⭐ (Very Dissatisfied)
+```
+```MR
+14.	How often do you return products?
+o	Never
+o	Rarely (1-2 times a year)
+o	Sometimes (3-5 times a year)
+o	Often (6+ times a year)
+```
+```MR
+15.	Do you leave product reviews after purchase?
+o	Always
+o	Sometimes
+o	Rarely
+o	Never
+```
+```MR
+16.	Would you recommend this store to others?
+o	Yes
+o	No
+```
+```MR
+17.	Any suggestions for improvement?
+o	________________________________________
+```
