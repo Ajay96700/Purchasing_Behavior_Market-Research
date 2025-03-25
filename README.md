@@ -1,8 +1,8 @@
 # Analysing consumer purchasing behavior using Primary research methodology
 
-![Logo]()
+![Logo](Consumer_Behavior_Image.jpg)
 
-## Title - Customer Purchasing Behavior Survey
+### Title - Customer Purchasing Behavior Survey
 
 ### Subtitle: Insights for Strategic Recommendations
 
