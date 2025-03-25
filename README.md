@@ -153,3 +153,16 @@ o	No
 17.	Any suggestions for improvement?
 o	________________________________________
 ```
+
+## Key Findings & Insights
+
+Basis on survey data we can write finding and insights. It may include,
+- Summary of Trends Observed
+- Most Common Purchasing Motivations
+- Key Pain Points (Cart Abandonment, Payment Issues, etc.)
+- Recommendations for Business Strategy
+
+## Conclusion & Recommendations
+ - How This Data Will Be Used for Strategic Planning
+ - Next Steps for Further Research and Implementation
+ - Final Takeaways for Businesses
