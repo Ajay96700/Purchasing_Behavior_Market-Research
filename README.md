@@ -116,6 +116,8 @@ o	Net Banking
 o	Yes
 o	No
 ```
+
+## Post-Purchase Behavior*
 ```MR
 12.	Have you ever abandoned your cart before checkout? If yes, why? (Select multiple)
 o	High shipping cost
@@ -123,7 +125,7 @@ o	Better deal elsewhere
 o	Changed mind
 o	Payment issue
 ```
-## Post-Purchase Behavior*
+
 ```MR
 13.	How satisfied are you with your last purchase?
 o	⭐⭐⭐⭐⭐ (Very Satisfied)
